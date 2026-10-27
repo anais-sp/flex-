@@ -1,0 +1,31 @@
+.padre{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+    fle
+}
+
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px 15px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.caja{
+    background-color: aqua;
+    color: #463030;
+    padding: 10px;
+}
